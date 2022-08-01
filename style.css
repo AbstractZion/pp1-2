@@ -1,0 +1,42 @@
+.heading{
+    width:100%;
+    text-align:left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start,#status,#restart,#yes{
+    font-size:23px;
+}
+
+canvas{
+    border:3px solid white;
+    border-radius: 23px;
+    box-shadow:  10px 10px 10px rgb(244, 72, 244);
+  }
+
+h4{
+   background-color: rgb(50, 46, 255);
+   color:white;
+   line-height: 2;
+}
+
+.modal-dialog{
+    width: 80%;
+}
+
+span{
+    font-size: 19px;
+}
+
+.cat{
+    display: inline-block;
+    width: 45%;
+}
